@@ -5,6 +5,7 @@ Welcome to my quick refrence sheet of CTF tools, Guides, and workflows.
 ## Reverse Engineering:<br>
 *Links For Reverse Engineering Tools*
 - IDA Pro - [https://www.hex-rays.com/products/ida/support/download.shtml]<br>
+- Strings - unix/linux tool<br>
 
 ## Networking:<br>
 *Links For Networking Tools*
